@@ -1,0 +1,11 @@
+console.log("Hi");
+var firstname="Devesh";
+var lastname="Dhadve";
+console.log(firstname);
+console.log(lastname);
+var finalname=firstname.concat(lastname);
+console.log(finalname);
+var a=10;
+var b=5;
+var add=a+b;
+console.log(add);
